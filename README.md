@@ -1,4 +1,4 @@
-# apnacollege-demo
+# demo
 This is my first repository
 <br>
 Author-Fatema Ali
